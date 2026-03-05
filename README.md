@@ -225,7 +225,8 @@ automation_hub/
 ├── pytest.ini
 ├── README.md
 ├── LICENSE
-└── .gitignore
+├──.gitignore
+└── AutomationHub.spec
 ```
 
 ---
